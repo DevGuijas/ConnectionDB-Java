@@ -7,9 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class DatabaseTest {
-    private static final String URL = "jdbc:postgresql://autorack.proxy.rlwy.net:45179/railway";
-    private static final String USER = "postgres";
-    private static final String PASSWORD = "LHqcDvopwywdoBcwlMNjIVhRGFFQFouS";
+    private static final String URL = "";
+    private static final String USER = "";
+    private static final String PASSWORD = "";
 
     public static void main(String[] args) {
         Connection connection = null;
